@@ -1,6 +1,5 @@
 package com.bridgelabz.day24;
 
-
 public class ContactInfo {
 
     private String firstName, lastName, email;

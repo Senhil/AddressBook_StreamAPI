@@ -1,5 +1,6 @@
 package com.bridgelabz.day24;
 
+
 public class Address {
 
     private String city, state;
