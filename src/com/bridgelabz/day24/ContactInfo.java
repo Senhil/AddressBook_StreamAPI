@@ -6,6 +6,7 @@ public class ContactInfo {
     private long phoneNumber;
     private Address address;
 
+
     public String getFirstName() {
         return firstName;
     }

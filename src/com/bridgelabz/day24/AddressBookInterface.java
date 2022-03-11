@@ -2,7 +2,8 @@ package com.bridgelabz.day24;
 
 import java.util.List;
 
-public interface AddressBookInterface {
+public interface AddressBookInterface
+{
 
     public void operation();
 
