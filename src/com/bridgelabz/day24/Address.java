@@ -1,6 +1,7 @@
 package com.bridgelabz.day24;
 
-public class Address {
+public class Address
+{
 
     private String city, state;
     private long zip;
