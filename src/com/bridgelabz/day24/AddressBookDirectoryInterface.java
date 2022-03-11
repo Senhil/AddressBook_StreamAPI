@@ -3,8 +3,7 @@ package com.bridgelabz.day24;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public interface AddressBookDirectoryInterface
-{
+public interface AddressBookDirectoryInterface {
 
     public void addAddressBook();
 
